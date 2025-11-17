@@ -1,1 +1,1 @@
-# number-guess-game
+# rock=-paper-scizer
